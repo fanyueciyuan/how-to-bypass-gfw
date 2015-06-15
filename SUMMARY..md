@@ -1,4 +1,0 @@
-# Summary
-
-* [PPTP](pptp.md)
-
