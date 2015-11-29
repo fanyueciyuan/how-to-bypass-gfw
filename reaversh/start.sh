@@ -4,3 +4,5 @@
 #main
 #kali /etc/reaver/$C_MAC.wpc
 Crack_K1
+#normal pin
+#Crack_Main
