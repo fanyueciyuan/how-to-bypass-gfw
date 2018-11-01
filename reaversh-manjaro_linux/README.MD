@@ -1,4 +1,4 @@
-#Manjaro Linux XFCE
+# Manjaro Linux XFCE
 ```
 chmod +x *.sh
 ./start.sh
